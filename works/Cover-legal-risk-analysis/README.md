@@ -22,7 +22,7 @@ A legal risk analysis of Cover Corporation's VTuber business (hololive) under Ja
 
 | | |
 |---|---|
-| **note.com（本文）/ Full text**  | |
+| **note.com（本文）/ Full text**  | https://note.com/struct_understnd/n/n7db988163ab5?app_launch=false|
 |  **PDF版 / PDF** | [Cover_legal_risk_analysis_v1.0_20260526.pdf](./Cover_legal_risk_analysis_v1.0_20260526.pdf)  |
 
 ---
